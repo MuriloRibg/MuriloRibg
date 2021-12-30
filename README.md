@@ -11,6 +11,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg">
 </div>
   
   ##
