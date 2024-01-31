@@ -1,11 +1,4 @@
 <h1>What's up? I'm Murilo Ribeiro 👋 <img src="https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil-1-1024x717.png" width="40" style="border-radius: 10px;"><h1>
-<div>
-  <img src="https://media2.giphy.com/media/IwTWTsUzmIicM/giphy.gif?cid=ecf05e47xsg95ijrtcz96r7w6l6ruu38u3290ladjpsi0es7&rid=giphy.gif&ct=g"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloribg&layout=compact)](https://github.com/MuriloRibg)" />
-  </a>
-</div>
-
   
 <div>
      <a href="https://instagram.com/murilo.ribjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
